@@ -1,0 +1,45 @@
+.bg {
+    background-image: '.../imagem/imagem';
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.cachorro {
+    background-image: url(../images/cachorros/Et-99YaXcAgLHSN.jfif);
+}
+
+.leao {
+    background-image: url(../images/leao/NcVnyh8u_400x400.jpg);
+}
+
+.peixe {
+    background-image: url(../images/peixe/ZWTv_jj5_400x400.jpg);
+}
+
+.estilo1 {
+    font: 10%;
+    font-family: 'Zen Dots', cursive;
+    font-weight: bolder;
+    font-stretch: normal;
+}
+
+.estilo2 {
+    font-size: 10em;
+    font-size: 10px;
+    font-size: 10%;
+    font-size: 10vh;
+}
+
+.estilo3 {
+    font: 10%;
+    font-family: 'Zen Dots', cursive;
+    font-weight: bolder;
+    font-stretch: normal;
+}
